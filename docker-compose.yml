@@ -2,7 +2,7 @@ version: '3'
 
 services:
   duckdb:
-    build: .
+    image: duckdb-image
     volumes:
       - ./data:/data
       - ./notebooks:/notebooks
