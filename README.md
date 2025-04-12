@@ -190,7 +190,7 @@ Relationship between file formats and content categories.
 ![Combined Dataset Comparison Overview](images/28Combined%20Dataset%20Comparison%20Overview.png)
 Comparative analysis of multiple datasets in the collection.
 
-## 📊 Anna's Archive Analysis Examples
+## 📊 AAC Analysis Examples
 
 ### Airiti Books Analysis
 ![Airiti Books Analysis](images/Airiti%20Books%20Analysis.png)
@@ -211,7 +211,7 @@ Publication Analysis by Year and Publisher
 ![Czech Records Analysis](images/KeywordAnalysisCzech.png)
 Keyword Analysis
 
-### # DuXiu Records Analysis
+### DuXiu Records Analysis
 ![SQL query to get the number of records by ISBN-10](images/DuXiuRecordsAnalysis.png)
 SQL query to get the number of records by ISBN-10
 
@@ -243,6 +243,48 @@ Content and Publisher Analysis
 ![Upload and File Analysis](images/MaganizeUploadandFileAnalysis.png)
 Upload and File Analysis
 
+
+## 📊 MariaDB Analysis Examples
+
+### Analysis of record distribution across different sources
+![Analysis of record distribution across different sources](images/Analysisofrecorddistributionacrossdifferentsources.png)
+Combines data from multiple archive sources to compare coverage
+
+### Analysis of record ID prefixes distribution
+![Analysis of record ID prefixes distribution](images/AnalysisofrecordIDprefixesdistribution.png)
+Examines the distribution of different types of identifiers
+
+### Series analysis from LibGen
+![Series analysis from LibGen](images/SeriesanalysisfromLibGen.png)
+Analyzes the distribution and characteristics of book series
+
+### Code prefix analysis
+![Code prefix analysis](images/Codeprefixanalysis.png)
+Examines the distribution of code prefixes across different lookup tables
+
+### ZLib book analysis
+![ZLib book analysis](images/ZLibbookanalysis.png)
+Analyzes the distribution of books in ZLib by language and file type
+
+### LibGen editions analysis
+![LibGen editions analysis](images/LibGeneditionsanalysis.png)
+Examines the temporal distribution of publications
+
+### Archive metadata analysis
+![Archive metadata analysis](images/ArchivemetadataanalysisSources.png)
+Analyzes the distribution of records across different archive sources
+
+### Series temporal analysis
+![Series temporal analysis](images/SeriestemporalanalysisPublications.png)
+Analyzes the temporal distribution of series publications
+
+### File characteristics analysis
+![File characteristics analysis](images/Filecharacteristicsanalysis.png)
+Examines the distribution of file properties across different sources
+
+### ISBN analysis
+![ISBN analysis](images/ISBNanalysisCharacteristics.png)
+Analyzes the distribution and characteristics of ISBN records
 
 ## 🚀 Quick Start
 
